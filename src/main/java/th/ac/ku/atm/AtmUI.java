@@ -15,7 +15,6 @@ public class AtmUI {
 
 	@Autowired
 	public AtmUI(ATM atm) {
-//		atm = new ATM();
 		this.atm = atm;
 	}
 
